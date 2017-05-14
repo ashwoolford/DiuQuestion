@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "916881022480",
+    "firebase_url": "https://diu-question.firebaseio.com",
+    "project_id": "diu-question",
+    "storage_bucket": "diu-question.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916881022480:android:55fe828cc7662d3e",
+        "android_client_info": {
+          "package_name": "com.example.ash.diuquestion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916881022480-pknou2pil7iqkvdma3hblnf21i644105.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0TiZb_uLUxo4w9sj9WWDTD_CRpUX1UMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
